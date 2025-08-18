@@ -1,0 +1,151 @@
+{
+  "price_control_info": {
+    "examples": [
+      "current wheat price",
+      "wheat cost today",
+      "price of sugar",
+      "sugar price today",
+      "MRP of flour",
+      "flour price",
+      "commodity prices in Punjab",
+      "latest commodity prices",
+      "current rates of sugar and flour"
+    ],
+    "responses": [
+      "The latest MRP of wheat is 60 PKR/kg, and sugar is 85 PKR/kg. Source: PC&CMD Punjab."
+    ]
+  },
+  "complaint_submission": {
+    "examples": [
+      "how to report overpricing",
+      "file a complaint",
+      "report sugar rates",
+      "report commodity issue",
+      "submit complaint",
+      "complaint registration",
+      "how to complain about prices"
+    ],
+    "responses": [
+      "You can submit your complaint online at https://pccmdpunjab.gov.pk/complaint or visit the nearest PC&CMD office."
+    ]
+  },
+  "department_contacts": {
+    "examples": [
+      "PC&CMD contact number",
+      "phone of office",
+      "email address",
+      "office contact",
+      "PC&CMD phone",
+      "PC&CMD telephone",
+      "contact number of PC&CMD",
+      "how to contact PC&CMD",
+      "PC&CMD email",
+      "phone number",
+      "office email",
+      "department phone"
+    ],
+    "responses": [
+      "You can contact PC&CMD at 0305-7866222 or email info@pccmdpunjab.gov.pk."
+    ]
+  },
+  "timings_office": {
+    "examples": [
+      "office hours",
+      "working time",
+      "office timing",
+      "hours of operation",
+      "when is office open",
+      "working hours",
+      "office schedule"
+    ],
+    "responses": [
+      "PC&CMD office is open Monday to Friday, 9 AM to 5 PM."
+    ]
+  },
+  "license_info": {
+    "examples": [
+      "how to get license",
+      "sugar license",
+      "flour license",
+      "vendor license",
+      "apply for license",
+      "license procedure",
+      "license registration",
+      "how to register for license"
+    ],
+    "responses": [
+      "For a license to sell sugar or flour, visit the licensing section on https://pccmdpunjab.gov.pk/ or contact the office."
+    ]
+  },
+  "events_announcements": {
+    "examples": [
+      "upcoming auctions",
+      "new notifications",
+      "tenders",
+      "announcements",
+      "events",
+      "latest news",
+      "department updates",
+      "PC&CMD news"
+    ],
+    "responses": [
+      "Check official PC&CMD notifications here: https://pccmdpunjab.gov.pk/."
+    ]
+  },
+  "faq_general": {
+    "examples": [
+      "what is PC&CMD",
+      "services provided by PC&CMD",
+      "department info",
+      "PC&CMD info",
+      "about PC&CMD",
+      "department services",
+      "what does PC&CMD do"
+    ],
+    "responses": [
+      "PC&CMD is responsible for price control, commodity management, and public grievance redressal in Punjab."
+    ]
+  },
+  "warehouse_info": {
+    "examples": [
+      "where to find flour",
+      "ration shop locations",
+      "commodity stock availability",
+      "warehouse info",
+      "stock of commodities",
+      "flour availability",
+      "sugar stock"
+    ],
+    "responses": [
+      "For warehouse and ration shop info, visit https://pccmdpunjab.gov.pk/warehouses."
+    ]
+  },
+  "payment_procedures": {
+    "examples": [
+      "how to pay fines",
+      "payment procedure",
+      "fee for license",
+      "make payment",
+      "pay fine",
+      "license fee payment",
+      "how to pay department charges"
+    ],
+    "responses": [
+      "Payment details are available on the official PC&CMD website: https://pccmdpunjab.gov.pk/payments."
+    ]
+  },
+  "feedback_suggestions": {
+    "examples": [
+      "give feedback",
+      "suggestion",
+      "department feedback",
+      "submit feedback",
+      "feedback form",
+      "suggest improvements",
+      "share feedback"
+    ],
+    "responses": [
+      "You can submit feedback or suggestions at https://pccmdpunjab.gov.pk/feedback."
+    ]
+  }
+}
