@@ -1,5 +1,6 @@
 # PublicPrompt-PCCMD
-# 💬 PublicPrompt Chatbot
+# 💬 PublicPrompt Chatbot using OpenAI key
+
 
 **PublicPrompt** is a lightweight AI-powered chatbot designed to handle public queries related to the **Price Control & Commodity Management Department (PC&CMD), Punjab**.  
 
